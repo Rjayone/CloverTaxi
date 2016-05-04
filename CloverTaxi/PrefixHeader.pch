@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  Outlay
+//
+//  Created by Andrew Medvedev on 2/21/16.
+//  Copyright © 2016 Andrew Medvedev. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Common.h"
+#import "UIView+LightJobWithFrame.h"
+#import <CoreLocation/CoreLocation.h>
+
+#define CURRENT_DATE [NSDate date]
+#define LOCAL_CURRENT_DATE [[NSDate date]dateByAddingTimeInterval:[[NSTimeZone systemTimeZone] secondsFromGMT]]
+
+#endif

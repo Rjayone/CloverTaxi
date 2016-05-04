@@ -1,0 +1,82 @@
+{
+	"drivers" : [
+	{
+		"id" : "1",
+		"firstName" : "Георгий",
+		"lastName"  : "Андрончик",
+        "imagePath" : "face_1",
+		"car" : {
+			"mark"  : "Audi",
+			"model" : "A6",
+			"color" : "Черный",
+			"number" : "0561AI-7",
+			"imagePath" : "audi_a6"
+		}
+	},
+	{
+		"id" : "2",
+		"firstName" : "Илья",
+		"lastName"  : "Филиппов",
+        "imagePath" : "face_2",
+		"car" : {
+			"mark"  : "BMW",
+			"model" : "535 e60",
+			"color" : "Серый",
+			"number" : "1721АА-7",
+			"imagePath" : "bmw_e60"
+		}
+	},
+	{
+		"id" : "3",
+		"firstName" : "Игорь",
+		"lastName"  : "Соболь",
+        "imagePath" : "face_3",
+		"car" : {
+			"mark"  : "Audi",
+			"model" : "A4",
+			"color" : "Черный",
+			"number" : "7881IA-7",
+			"imagePath" : "audi_a4"
+		}
+	},
+	{
+		"id" : "4",
+		"firstName" : "Дмитрий",
+		"lastName"  : "Почуйко",
+        "imagePath" : "face_4",
+		"car" : {
+			"mark"  : "Opel",
+			"model" : "Astra",
+			"color" : "Красный",
+			"number" : "3910ME-7",
+			"imagePath" : "opel"
+		}
+	},
+	{
+		"id" : "5",
+		"firstName" : "Иван",
+		"lastName"  : "Сокол",
+        "imagePath" : "face_5",
+		"car" : {
+			"mark"  : "Hyundai",
+			"model" : "Solaris",
+			"color" : "Серый",
+			"number" : "0914AА-7",
+			"imagePath" : "huyndai"
+		}
+	},
+	{
+		"id" : "6",
+		"firstName" : "Николай",
+		"lastName"  : "Хацкевич",
+        "imagePath" : "face_6",
+		"car" : {
+			"mark"  : "Hyundai",
+			"model" : "Solaris",
+			"color" : "Черный",
+			"number" : "6195AI-7",
+			"imagePath" : "huyndai"
+		}
+	}
+	]
+}
